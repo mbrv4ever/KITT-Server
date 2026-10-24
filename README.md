@@ -4,6 +4,12 @@ Jouw persoonlijke "hoofdkwartier" voor DraveKITT Mobile.
 
 > 🔗 **Hoort bij elkaar:** KITT-Server is de **motor** op je pc (het denkwerk). [DraveKITT Mobile](https://github.com/mbrv4ever/DraveKITTMobile) is de app op je **telefoon** (praten en luisteren). Je hebt ze **allebei** nodig.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo KITT-Server](https://dravenlock.nl/video/KITT-Server.jpg)](https://dravenlock.nl/video/KITT-Server.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/KITT-Server.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Web en servers · versie 1.0.4*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
